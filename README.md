@@ -37,7 +37,7 @@
 
 ## 🚀 Projects
 
-### 💊 Pharma Care  
+### 💊 [Pharma Care](https://shreyansh-pharmacare.netlify.app/)  
 A responsive healthcare web app for prescription generation and patient data handling.  
 Tech: HTML | CSS | JavaScript
 
