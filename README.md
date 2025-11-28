@@ -12,11 +12,14 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 CSE @ **Pranveer Singh Institute of Technology**, Kanpur (2022–2026)
-- 💡 Passionate about building full-stack applications and solving DSA problems
-- 💬 400+ LeetCode problems cracked!
 - 🧠 Exploring Machine Learning and DevOps
 - ⚙️ Qualified Flipkart GRID Robotics Round-1
+- 🚀 Leetcode Rank 1485 in Biweekly 170
+- 💻 Full-Stack Developer | MERN Stack Specialist
+- 📚 LeetCode Problem Solver | 500+ DSA Problems
+- 🎯 Focus: Building Scalable Web Solutions
+- ☕ Fueled By: Coffee & Algorithm Challenges
+  
 
 ---
 
