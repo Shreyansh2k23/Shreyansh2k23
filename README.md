@@ -24,7 +24,7 @@
 ```
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stacks
 <p align="center">
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,java" alt="Languages">
